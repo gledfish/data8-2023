@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_4',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> type(valid_test_stat) == int\nTrue', 'hidden': False, 'locked': False},

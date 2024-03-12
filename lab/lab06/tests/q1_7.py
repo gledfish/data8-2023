@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_7',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> len(model_proportions) % 2 == 0\nTrue', 'hidden': False, 'locked': False},

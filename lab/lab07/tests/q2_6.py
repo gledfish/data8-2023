@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_6',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(observed_difference, float)\nTrue', 'hidden': False, 'locked': False},

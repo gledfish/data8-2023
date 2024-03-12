@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_11',
     'points': [0, 0, 0, 4],
     'suites': [   {   'cases': [   {   'code': '>>> # Incorrect labels for columns\n'

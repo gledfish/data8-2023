@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_5',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> int(round(statistic(.5,.5) + statistic(.4,.1),1))\n30', 'hidden': False, 'locked': False},

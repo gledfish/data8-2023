@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q36',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> berkeley_markets.num_rows == 3\nTrue', 'hidden': False, 'locked': False},

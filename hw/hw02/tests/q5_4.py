@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q5_4',
     'points': [5],
     'suites': [   {   'cases': [   {   'code': '>>> sales.sort(0)\n'

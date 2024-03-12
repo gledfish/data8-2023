@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q4_3',
     'points': [0, 5],
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure to return the number of face cards, not a proportion\n'

@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_5',
     'points': [0, 0, 0],
     'suites': [   {   'cases': [   {'code': ">>> # Check your column labels and spelling\n>>> largest.labels == ('name', 'poverty_total')\nTrue", 'hidden': False, 'locked': False},

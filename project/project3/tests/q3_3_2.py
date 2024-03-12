@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_3_2',
     'points': [0, 0, 3],
     'suites': [   {   'cases': [   {'code': ">>> test_movie_correctness.labels == ('Title', 'Genre', 'Was correct')\nTrue", 'hidden': False, 'locked': False},

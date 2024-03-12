@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q41',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> # Oops, your name is assigned to the wrong data type!\n'

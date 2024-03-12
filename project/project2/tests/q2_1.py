@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_1',
     'points': [0, 1],
     'suites': [   {   'cases': [   {'code': '>>> totals.num_rows == 61\nTrue', 'hidden': False, 'locked': False},

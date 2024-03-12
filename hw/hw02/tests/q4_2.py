@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q4_2',
     'points': [0, 0],
     'suites': [   {   'cases': [   {   'code': '>>> # Hint: If you are getting 47 as your answer, you might be computing the biggest change \n'

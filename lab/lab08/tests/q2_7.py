@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_7',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> import hashlib # This imports a hashing library for the autograder.\n'

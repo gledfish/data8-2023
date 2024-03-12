@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_8',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> len(simulated_statistics) == 1000\nTrue', 'hidden': False, 'locked': False},

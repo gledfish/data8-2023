@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q11',
     'points': None,
     'suites': [   {   'cases': [   {'code': ">>> woman_asking\n'The woman asked:'", 'hidden': False, 'locked': False},

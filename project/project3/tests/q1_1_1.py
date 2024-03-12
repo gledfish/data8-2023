@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_1_1',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> (type(stemmed_message) == str) | (type(stemmed_message) == np.str_)\nTrue', 'hidden': False, 'locked': False},

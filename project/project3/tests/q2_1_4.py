@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_1_4',
     'points': [0, 0, 0],
     'suites': [   {   'cases': [   {'code': ">>> set(close_movies.labels) >= {'Genre', 'Title', 'feel', 'water'}\nTrue", 'hidden': False, 'locked': False},

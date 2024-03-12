@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_2_2',
     'points': [3],
     'suites': [   {   'cases': [   {   'code': '>>> from collections import Counter\n'

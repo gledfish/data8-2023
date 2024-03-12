@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q213',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> type(multiples_of_99) == np.ndarray\nTrue', 'hidden': False, 'locked': False},

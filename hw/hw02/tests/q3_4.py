@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_4',
     'points': [1, 1, 1, 1],
     'suites': [   {   'cases': [   {   'code': '>>> # It looks like you multiplied and subtracted in the wrong\n>>> # order.\n>>> sum(celsius_temps_rounded) != 356705.0\nTrue',

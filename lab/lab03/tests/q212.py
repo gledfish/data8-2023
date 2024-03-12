@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q212',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> import numpy as np\n>>> type(hello_world_components) == np.ndarray\nTrue', 'hidden': False, 'locked': False},

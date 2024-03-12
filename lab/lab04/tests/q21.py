@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q21',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure you are examining the values in the column, not the column itself\n>>> import numpy\n>>> total_pay_type != numpy.ndarray\nTrue',

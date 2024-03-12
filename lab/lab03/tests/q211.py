@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q211',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> import numpy as np\n>>> type(interesting_numbers) == np.ndarray\nTrue', 'hidden': False, 'locked': False},

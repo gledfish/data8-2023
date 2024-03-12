@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q4_1',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> # The array should have length 2\n>>> len(deck_model_probabilities) == 2\nTrue', 'hidden': False, 'locked': False},

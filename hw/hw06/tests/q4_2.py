@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q4_2',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> # Make sure you are setting statistic_choice to an int\n>>> type(statistic_choice) == int\nTrue', 'hidden': False, 'locked': False},

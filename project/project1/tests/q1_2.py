@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_2',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> first = round(p_five_growth.sort(0).column(2).item(0), 8)\n>>> 0.005 <= first <= 0.5\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_5',
     'points': [4],
     'suites': [   {   'cases': [   {   'code': '>>> sorted_coordinates = coordinates.sort("school")\n'

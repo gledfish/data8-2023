@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_2',
     'points': [2, 2],
     'suites': [   {   'cases': [   {'code': '>>> type(observed_tvd) in set([float, np.float32, np.float64])\nTrue', 'hidden': False, 'locked': False},

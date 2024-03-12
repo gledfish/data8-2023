@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_1',
     'points': [0, 0, 0, 0],
     'suites': [   {   'cases': [   {'code': '>>> job_titles.num_columns\n2', 'hidden': False, 'locked': False},

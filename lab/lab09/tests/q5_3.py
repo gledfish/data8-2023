@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q5_3',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> np.allclose([predict_wait(x) for x in [1.5, 2.5]], \n...             [51.077412999812836, 57.427935787953487])\nTrue',

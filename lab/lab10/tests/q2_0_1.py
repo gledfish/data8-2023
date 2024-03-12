@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_0_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> 0 < probability_large_shiny < 1 \nTrue', 'hidden': False, 'locked': False},

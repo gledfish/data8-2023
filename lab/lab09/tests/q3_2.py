@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_2',
     'points': None,
     'suites': [   {   'cases': [   {   'code': ">>> set(faithful_predictions.labels) == set(['duration', 'wait', 'predicted wait']) # Make sure your column labels are correct.\nTrue",

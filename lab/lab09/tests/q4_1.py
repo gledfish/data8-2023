@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q4_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> 12 - zero_minute_predicted_waiting_time*1.4/4 <= 0.35\nTrue', 'hidden': False, 'locked': False},

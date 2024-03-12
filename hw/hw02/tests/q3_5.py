@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_5',
     'points': [0, 0, 4, 0],
     'suites': [   {   'cases': [   {'code': '>>> # celsius_temperature_ranges should be an array\n>>> type(celsius_temperature_ranges) is np.ndarray\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q1_2_2',
     'points': [0, 0, 1],
     'suites': [   {   'cases': [   {'code': '>>> phoenix.num_rows == 46021\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_0',
     'points': [0, 0, 0],
     'suites': [   {   'cases': [   {'code': '>>> 0.0 <= distance_first_to_second and distance_first_to_second <= 0.1\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q32',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> type(imdb) == tables.Table\nTrue', 'hidden': False, 'locked': False},

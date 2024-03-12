@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q14',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> # One or more of the reaction results could be incorrect\n'

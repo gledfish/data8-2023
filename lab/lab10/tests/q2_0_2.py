@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q2_0_2',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> import hashlib \n'

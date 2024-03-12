@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_7',
     'points': [0, 0, 0],
     'suites': [   {   'cases': [   {'code': '>>> type(original_with_shuffled_labels) == Table\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_Format = True
 test = {   'name': 'q3_1',
     'points': [1, 5],
     'suites': [   {   'cases': [   {'code': '>>> len(resample_yes_proportions) == 10000\nTrue', 'hidden': False, 'locked': False},
